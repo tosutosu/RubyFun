@@ -10,4 +10,4 @@ puts names.size
 names.each do |val|
   print val, "__"
 end
-puts 
+puts
